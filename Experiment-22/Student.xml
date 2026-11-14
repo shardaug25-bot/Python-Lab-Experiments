@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<students>
+    <student>
+        <roll>101</roll>
+        <name>Rahul</name>
+        <department>CSE</department>
+        <cgpa>8.5</cgpa>
+    </student>
+
+    <student>
+        <roll>102</roll>
+        <name>Priya</name>
+        <department>ECE</department>
+        <cgpa>9.0</cgpa>
+    </student>
+</students>
